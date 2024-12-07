@@ -27,10 +27,3 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,redux,github,git,figma,vercel&perline=5)](https://skillicons.dev)
 
-![Sanaullah GitHub stats](https://github-readme-stats.vercel.app/api?username=sanaullah&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanaullah&theme=dark)
-
-
-<br>
-⭐️ From [Sanaullahlarik]([https://github.com/axiftaj](https://github.com/Sanaullahlarik))
